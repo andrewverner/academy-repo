@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Sergey Vikhrov](https://up.htmlacademy.ru/yii/1/user/70982).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Ходаковский](https://htmlacademy.ru/profile/id1232355).
 
 ---
 
