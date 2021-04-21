@@ -58,12 +58,12 @@ class Task
 
     public function getStatusByAction(string $action): ?string
     {
-        return ACTION_STATUS_MAP[$action] ?? null;
+        return Task::ACTION_STATUS_MAP[$action] ?? null;
     }
 
     public function getAvailableActions (): ?string
     {
-        return STATUS_ACTION_MAP[$this->currentStatus] ?? null;
+        return Task::STATUS_ACTION_MAP[$this->currentStatus] ?? null;
     }
 
 }
