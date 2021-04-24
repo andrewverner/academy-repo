@@ -1,6 +1,6 @@
 <?php
 
-require_once 'src/task.php';
+require_once 'src/Domain/Task.php';
 
 $newTask = new Task(1, 3, 'new');
 
