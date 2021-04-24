@@ -1,5 +1,7 @@
 <?php
 
+namespace Taskforce\Domain;
+
 class Task
 {
     public const STATUS_NEW = 'new'; // default status
