@@ -1,12 +1,4 @@
 {
-    "name": "sergey/task-force",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Katehet",
-            "email": "sv_sleep@mail.ru"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "Taskforce\\": "src/"
